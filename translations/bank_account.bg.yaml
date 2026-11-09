@@ -1,0 +1,11 @@
+# Bank account controller translations
+leftMenu.bankAccounts: 'Банкови сметки'
+
+createBankAccountTitle: 'Създаване на банкова сметка'
+editBankAccountTitle: 'Редактиране на банкова сметка'
+
+name: 'Име'
+bankName: 'Име на банка'
+iban: 'IBAN'
+swift: 'SWIFT'
+address: 'Адрес'

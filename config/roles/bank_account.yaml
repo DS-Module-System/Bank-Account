@@ -1,0 +1,7 @@
+parameters:
+    bank_account_roles:
+        # Bank account roles
+        "ROLE_BANK_ACCOUNT_VIEW": "roles.role_bank_account_view"
+        "ROLE_BANK_ACCOUNT_CREATE": "roles.role_bank_account_create"
+        "ROLE_BANK_ACCOUNT_EDIT": "roles.role_bank_account_edit"
+        "ROLE_BANK_ACCOUNT_DELETE": "roles.role_bank_account_delete"

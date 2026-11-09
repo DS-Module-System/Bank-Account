@@ -1,0 +1,11 @@
+# Bank account controller translations
+leftMenu.bankAccounts: 'Bank Accounts'
+
+createBankAccountTitle: 'Create bank account'
+editBankAccountTitle: 'Edit bank account'
+
+name: 'Name'
+bankName: 'Bank name'
+iban: 'IBAN'
+swift: 'SWIFT'
+address: 'Address'
